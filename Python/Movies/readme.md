@@ -1,1 +1,3 @@
-Description
+This program parses through two .csv files which contain movies and ratings for said movies. While parsing through the movies it adds them to the Pandas dataframe where they are organized. When done  it compates the ratings in the dataframe for each movie and returns five movies with the highest rating. 
+
+The data are derived from the MovieLens 100k dataset, available at https://www.kaggle.com/prajitdatta/movielens-100k-dataset. Two files are provided: movies.csv and ratings.csv. movies.csv contains information about a number of movies, and ratings.csv contains users' ratings of these movies. There are several ratings for each movie.
