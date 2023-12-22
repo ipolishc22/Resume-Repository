@@ -1,1 +1,1 @@
-Description
+This program runs from the terminal and takes in two arguments, a two-letter country code and four-digit year. Using a web service retrieves holidays for that country in that year and prints out the date and name of each holiday. 
