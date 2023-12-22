@@ -1,1 +1,3 @@
-Description
+This program is an electoral college calculator. Using two text files it determines the winner. One dictionary will indicate the number of electors per state; the other will assign a hypothetical winning party ("R" or "D") to each state. Using those two dictionaries to determine who would win a presidential election based on the outcome of voting in each state. By modifying the contents of the file that assigns a party to each state, you can experiment with different potential outcomes. (The initial outcomes listed in the file are the outcomes of the 2016 presidential election.)
+
+This program runs from the terminal. 
